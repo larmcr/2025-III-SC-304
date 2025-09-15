@@ -60,5 +60,5 @@
 | Caso Práctico 2                           |  15 % | Lunes 1 de diciembre      |     17:59:59      |
 | Proyecto Final: Presentación <sup>3</sup> |  10 % | Lunes 8 o 15 de diciembre |         -         |
 
-1. Hora final de entrega (cualquier _commit_ en **Git** después de dicha hora, en la respectiva fecha, no será tomado en cuenta).
-2. La presentación del **Proyecto Final** depende de la fecha y hora que le corresponde a cada grupo.
+2. Hora final de entrega (cualquier _commit_ en **Git** después de dicha hora, en la respectiva fecha, no será tomado en cuenta).
+3. La presentación del **Proyecto Final** depende de la fecha y hora que le corresponde a cada grupo.
