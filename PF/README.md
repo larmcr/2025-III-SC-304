@@ -135,7 +135,7 @@ Para esto, se le debe solicitar al usuario que escoja un archivo y el programa l
 
 ## Especificaciones técnicas
 
-La versión para desarrollar el proyecto debe ser [**_Java SE 21 & JDK 21_**](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) (_Standard Edition & Java Development Kit version 21)_, la cual es [LTS](<https://en.wikipedia.org/wiki/Java_version_history#Java_SE_21_(LTS)>) (_Long-Term Support_). Se recomienda utilizar la implementación de [OpenJDK](https://jdk.java.net/java-se-ri/21) o de [Oracle](https://www.oracle.com/java/technologies/downloads/#java21).
+La versión para desarrollar el proyecto debe ser [**_Java SE 21 & JDK 21_**](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) (_Standard Edition & Java Development Kit version 21)_, la cual es [LTS](https://en.wikipedia.org/wiki/Java_version_history#Java_SE_21_(LTS)) (_Long-Term Support_). Se recomienda utilizar la implementación de [OpenJDK](https://jdk.java.net/java-se-ri/21) o de [Oracle](https://www.oracle.com/java/technologies/downloads/#java21).
 
 Al ser una aplicación de escritorio ([_Desktop_](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/module-summary.html)) con interfaz gráfica, se debe utilizar alguna _Library_ de **_Java_** para este fin, como lo son [AWT](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/awt/package-summary.html) y/o [Swing](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/javax/swing/package-summary.html). Se puede utilizar cualquier otra, tal como [JavaFX](https://openjfx.io), mientras sea de código abierto (_Open Source_) o de libre acceso.
 
