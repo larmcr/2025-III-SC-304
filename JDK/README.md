@@ -6,7 +6,7 @@ Se recomienda utilizar la implementación de [OpenJDK](https://jdk.java.net/java
 
 Ahora bien, en caso que se tenga más de un **JDK** instalado, es necesario configurar el proyecto para que utilice la versión correspondiente (**21**).
 
-En esta guía se muestran los pasos para hacerlo con tres IDEs:
+En esta guía se muestran los pasos para hacerlo con cuatro IDEs/editores:
 
 - [Eclipse](#eclipse)
 - [IntelliJ IDEA](#intellij-idea)
@@ -83,7 +83,7 @@ Al ser un editor y no un IDE, se le debería instalar el _Extension_ llamado [**
 
 ![VSC-1](img/vsc-1.png)
 
-Luego de crear un proyecto, en el explorador del proyecto (_Explorer_), se puede observar que aparece la sección de los projectos de Java (_Java Projects_):
+Luego de crear un proyecto, en el explorador (_Explorer_) se puede observar que aparece la sección de los projectos de **Java** (_Java Projects_):
 
 ![VSC-2](img/vsc-2.png)
 
