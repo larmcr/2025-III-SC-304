@@ -10,7 +10,7 @@ En esta guía se muestran los pasos para hacerlo con tres IDEs:
 
 - [Eclipse](#eclipse)
 - [IntelliJ IDEA](#intellij-idea)
-- [Netbeans](#netbeans)
+- [NetBeans](#netbeans)
 - [Visual Studio Code](#visual-studio-code)
 
 <br />
@@ -51,7 +51,7 @@ Para finalmente, aceptar los cambios (_OK_):
 
 <br />
 
-## Netbeans
+## NetBeans
 
 Este IDE se puede descargar desde su [página oficial](https://netbeans.apache.org/front/main/index.html).
 
