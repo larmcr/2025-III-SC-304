@@ -11,6 +11,7 @@ En esta guía se muestran los pasos para hacerlo con tres IDEs:
 - [Eclipse](#eclipse)
 - [IntelliJ IDEA](#intellij-idea)
 - [Netbeans](#netbeans)
+- [Visual Studio Code](#visual-studio-code)
 
 <br />
 
@@ -71,3 +72,33 @@ Tercero, se debe escoger la versión correspondiente (**21**) tanto para la plat
 Cuarto, aceptar los cambios (_OK_):
 
 ![Netbeans-4](img/nb-4.png)
+
+<br />
+
+## Visual Studio Code
+
+Este editor se puede descargar desde su [página oficial](https://code.visualstudio.com).
+
+Al ser un editor y no un IDE, se le debería instalar el _Extension_ llamado [**_Extension Pack for Java_**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) para programar en **Java**:
+
+![VSC-1](img/vsc-1.png)
+
+Luego de crear un proyecto, en el explorador del proyecto (_Explorer_), se puede observar que aparece la sección de los projectos de Java (_Java Projects_):
+
+![VSC-2](img/vsc-2.png)
+
+Al acercarse con el _mouse_, aparecen tres puntos indicando más acciones (_More Actions_):
+
+![VSC-3](img/vsc-3.png)
+
+Al cliquear dichos puntos, aparece un menú, donde se debe escoger la opción de configurar el JRE (_Configure Java Runtime_):
+
+![VSC-4](img/vsc-4.png)
+
+Esto abrirá la configuración del proyecto (_Project Settings_), desde donde se podrá escoger el JDK correspondiente:
+
+![VSC-5](img/vsc-5.png)
+
+Y finalmente se aplican las configuraciones (_Apply Settings_):
+
+![VSC-6](img/vsc-6.png)
