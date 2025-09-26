@@ -17,6 +17,7 @@
 - [Especificaciones técnicas](#especificaciones-técnicas)
 - [Entregables](#entregables)
 - [Evaluación](#evaluación)
+  - [Avance I](#avance-i)
 
 <br />
 
@@ -135,7 +136,7 @@ Para esto, se le debe solicitar al usuario que escoja un archivo y el programa l
 
 ## Especificaciones técnicas
 
-La versión para desarrollar el proyecto debe ser [**_Java SE 21 & JDK 21_**](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) (_Standard Edition & Java Development Kit version 21)_, la cual es [LTS](https://en.wikipedia.org/wiki/Java_version_history#Java_SE_21_(LTS)) (_Long-Term Support_). Se recomienda utilizar la implementación de [OpenJDK](https://jdk.java.net/java-se-ri/21) o de [Oracle](https://www.oracle.com/java/technologies/downloads/#java21).
+La versión para desarrollar el proyecto debe ser [**_Java SE 21 & JDK 21_**](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) (_Standard Edition & Java Development Kit version 21)_, la cual es [LTS](<https://en.wikipedia.org/wiki/Java_version_history#Java_SE_21_(LTS)>) (_Long-Term Support_). Se recomienda utilizar la implementación de [OpenJDK](https://jdk.java.net/java-se-ri/21) o de [Oracle](https://www.oracle.com/java/technologies/downloads/#java21).
 
 Al ser una aplicación de escritorio ([_Desktop_](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/module-summary.html)) con interfaz gráfica, se debe utilizar alguna _Library_ de **_Java_** para este fin, como lo son [AWT](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/java/awt/package-summary.html) y/o [Swing](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/javax/swing/package-summary.html). Se puede utilizar cualquier otra, tal como [JavaFX](https://openjfx.io), mientras sea de código abierto (_Open Source_) o de libre acceso.
 
@@ -204,4 +205,34 @@ En el repositorio debe estar lo siguiente:
 
 ## Evaluación
 
-El proyecto será calificado según la rúbrica que se presenta en el programa del curso.
+Este proyecto final será evaluado por medio de tres fases (dos avances y la presentación), tal como se acordó en el primer día de clases.
+
+Conforme se vaya avanzando en el cuatrimetre, se irán agregando detalles de dichas evaluaciones en este documento.
+
+<br />
+
+### Avance I
+
+Este primer avance tendrá un valor de 15 %.
+
+Se tomará en cuenta lo subido al repositorio a más tardar el lunes 20 de octubre a las 17:59:59.
+
+Los ítemes a evaluar serán los siguientes (para un total de 30 puntos):
+
+1. Clase **Carta** implementada (5 puntos).
+
+2. Interfaz gráfica (20 puntos):
+
+   - Todas las secciones en forma de boceto.
+   - La baraja completa, es decir, las 52 instancias de la clase **Carta**.
+
+3. Documentación en **Markdown** (5 puntos):
+   - Nombres y carnés de los integrantes.
+   - Usuarios y correos de **Git** de cada integrante.
+   - Editores/IDEs.
+   - Instructivo:
+     - Instalación.
+     - Compilación.
+     - Ejecución.
+
+Importante a tener en cuenta que, si al seguir los pasos del instructivo (instalación, compilación y ejecución) no fue posible compilar o ejecutar el programa, entonces el ítem #2 se evaluará como no hecho, es decir, con puntaje de cero.
