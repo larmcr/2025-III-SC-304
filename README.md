@@ -12,11 +12,6 @@
 
 - **PP4**: Práctica Programada 4 (5%)
 
-- **CP1**: Caso Práctico 1 (15%)
-
-- **CP2**: Caso Práctico 2 (15%)
-
-- **PF**: Proyecto Final (50%)
 
 <br />
 
