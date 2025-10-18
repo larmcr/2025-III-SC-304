@@ -180,7 +180,7 @@ Finalmente, las cartas deben instanciarse una sola vez durante cada partida. Est
 
 ## Entregables
 
-Debido a que este proyecto se debe hacer según los grupos establecidos, el único entregable (es decir, lo único que se debe subir al **Campus Virtual**) es el vínculo (_link_) al repositorio en línea de [Git](https://git-scm.com) (como por ejemplo, a [GitHub](https://github.com) o [GitLab](https://about.gitlab.com)). Este vínculo debe ser subido por <ins>solo uno de los miembros del grupo</ins>. Este repositorio puede ser privado, pero <ins>deberá ser público</ins> al momento de los avances, así como cuando les toque el turno de la exposición del proyecto en la semana correspondiente, para que el profesor pueda tener acceso al mismo.
+Debido a que este proyecto se debe hacer según los grupos establecidos, el único entregable (<del>es decir, lo único que se debe subir al **Campus Virtual**</del>) es el vínculo (_link_) al repositorio en línea de [Git](https://git-scm.com) (como por ejemplo, a [GitHub](https://github.com) o [GitLab](https://about.gitlab.com)). <del>Este vínculo debe ser subido por <ins>solo uno de los miembros del grupo</ins></del>. Este repositorio puede ser privado, pero <ins>deberá ser público</ins> al momento de los avances, así como cuando les toque el turno de la exposición del proyecto en la semana correspondiente, para que el profesor pueda tener acceso al mismo.
 
 En el repositorio debe estar lo siguiente:
 
@@ -188,7 +188,7 @@ En el repositorio debe estar lo siguiente:
 
 - Un archivo `README.md` escrito en [Markdown](https://www.markdownguide.org) en la raíz del proyecto, que contenga lo siguiente:
 
-  - Los nombres y carnés de los integrantes del grupo. <ins>Estos serán los únicos que serán tomados en cuenta para la calificación</ins>.
+  - Los nombres y carnés de los integrantes del grupo. <ins>Estos serán los únicos que se tomarán en cuenta para la calificación</ins>.
 
   - El nombre de usuario y correo de **Git** de cada integrante.
 
