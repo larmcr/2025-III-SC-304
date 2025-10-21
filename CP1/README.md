@@ -199,7 +199,7 @@ Popped {empty}
  ↳ print() → []
    ↳ peek() → null
    ↳ size() → 0
-   ↳ empty() → truehttps://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Deque.html
+   ↳ empty() → true
 ```
 
 <br />
