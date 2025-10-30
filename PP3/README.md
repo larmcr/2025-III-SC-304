@@ -125,7 +125,7 @@ Una vez los métodos a implementar estén funcionando correctamente, la aplicaci
 
 - Elimina `n * 2` elementos de la lista: `n` de manera inicial (`removeFirst`) y `n` de forma final (`removeLast`).
 
-- Elimina el resto de elementos de la lista utilizando los mísmos métodos (`removeFirst` y `removeLast`), pero invocándolos más veces que la cantidad remanente de nodos, para poder verificar si la implementación de los métodos toma en cuenta dichos escenarios.
+- Elimina el resto de elementos de la lista utilizando los mismos métodos (`removeFirst` y `removeLast`), pero invocándolos más veces que la cantidad remanente de nodos, para poder verificar si la implementación de los métodos toma en cuenta dichos escenarios.
 
 - Imprime en la Consola cierta información de cada paso:
   - `List {...}: [...]`: este es un arreglo hecho con [ArrayDeque](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayDeque.html) para que se ayude a verificar si su lista está comportándose igual.
@@ -194,7 +194,7 @@ La versión para desarrollar la práctica debe ser [**_Java SE 21 & JDK 21_**](h
 
 ## Entregables
 
-Esta es una práctica individual, por lo que en su respectivo repositorio de **Git**, específicamente en el _Branch_ principal (`main`), debe hallarse una carpeta llamada `PP3`, la cual contenga:
+Esta es una práctica individual, por lo que en el apartado indicado del **Campus Virtual** (con un archivo comprimido **ZIP**) o en su respectivo repositorio de **Git**, específicamente en el _Branch_ principal (`main`), debe hallarse una carpeta llamada `PP3`, la cual contenga:
 
 - Todo el código fuente. Sin embargo, no debe contener los archivos compilados, es decir, excluir cualquier archivo `.class`.
 
@@ -216,7 +216,7 @@ Esta es una práctica individual, por lo que en su respectivo repositorio de **G
 
     - Si tuviera que implementar una estructura tipo Cola (_Queue_), ¿qué tipo de lista (simple, circular, doblemente enlazada o circular doblemente enlazada) utilizaría y por qué? ¿Y para una estructura tipo Pila (_Stack_)?
 
-    - ¿Cuál cree que podría ser una ventaja y una desventaja de utilizar una estructura de tipo lista creada por usted mismo, en vez de las opciones proveidas directamente por los módulos estándar de **Java** (como por ejemplo [List](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/List.html))?
+    - ¿Cuál cree que podría ser una ventaja y una desventaja de utilizar una estructura de tipo lista creada por usted mismo, en vez de las opciones proveídas directamente por los módulos estándar de **Java** (como por ejemplo [List](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/List.html))?
 
 <br />
 

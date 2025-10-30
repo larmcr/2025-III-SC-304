@@ -29,13 +29,13 @@
 | Lunes 22 de setiembre |         02          | Lección: Recursividad        | Práctica Programada 1 |                              |
 | Lunes 29 de setiembre |         03          | Lección: Recursividad        |                       | Práctica Programada 1        |
 | Lunes 6 de octubre    |         04          | Lección: Pilas               | Práctica Programada 2 |                              |
-| Lunes 13 de octubre   |         05          | Lección: Pilas               |                       | Práctica Programada 2        |
-| Lunes 20 de octubre   |         06          | Lección: Colas               | Caso Práctico 1       | Proyecto Final: Avance I     |
+| Lunes 13 de octubre   |         05          | Lección: Pilas & Colas       |                       | Práctica Programada 2        |
+| Lunes 20 de octubre   |         06          | Lección: Colas & Listas      | Caso Práctico 1       | Proyecto Final: Avance I     |
 | -                     |         07          | Resolución: Caso Práctico 1  |                       |                              |
 | Lunes 27 de octubre   |         08          | Lección: Listas              | Práctica Programada 3 | Caso Práctico 1              |
-| Lunes 3 de noviembre  |         09          | Lección: Listas              |                       | Práctica Programada 3        |
+| Lunes 3 de noviembre  |         09          | Lección: Listas & Árboles    |                       | Práctica Programada 3        |
 | Lunes 10 de noviembre |         10          | Lección: Árboles             | Práctica Programada 4 |                              |
-| Lunes 17 de noviembre |         11          | Lección: Árboles             |                       | Práctica Programada 4        |
+| Lunes 17 de noviembre |         11          | Lección: Árboles & Grafos    |                       | Práctica Programada 4        |
 | Lunes 24 de noviembre |         12          | Lección: Grafos              | Caso Práctico 2       | Proyecto Final: Avance II    |
 | -                     |         13          | Resolución: Caso Práctico 2  |                       |                              |
 | Lunes 1 de diciembre  |          -          | Feriado                      |                       | Caso Práctico 2              |
@@ -56,9 +56,9 @@
 | Caso Práctico 1                           |  15 % | Lunes 27 de octubre       |     17:59:59      |
 | Práctica Programada 3                     |   5 % | Lunes 3 de noviembre      |     17:59:59      |
 | Práctica Programada 4                     |   5 % | Lunes 17 de noviembre     |     17:59:59      |
-| Proyecto Final: Avance II                 |  25 % | Lunes 24 de noviembre     |     17:59:59      |
+| Proyecto Final: Avance II                 |  10 % | Lunes 24 de noviembre     |     17:59:59      |
 | Caso Práctico 2                           |  15 % | Lunes 1 de diciembre      |     17:59:59      |
-| Proyecto Final: Presentación <sup>3</sup> |  10 % | Lunes 8 o 15 de diciembre |         -         |
+| Proyecto Final: Presentación <sup>3</sup> |  25 % | Lunes 8 o 15 de diciembre |         -         |
 
 2. Hora final de entrega (cualquier _commit_ en **Git** después de dicha hora, en la respectiva fecha, no será tomado en cuenta).
 3. La presentación del **Proyecto Final** depende de la fecha y hora que le corresponde a cada grupo.
