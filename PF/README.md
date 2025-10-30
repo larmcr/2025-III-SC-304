@@ -18,6 +18,7 @@
 - [Entregables](#entregables)
 - [Evaluación](#evaluación)
   - [Avance I](#avance-i)
+  - [Avance II](#avance-ii)
 
 <br />
 
@@ -236,3 +237,28 @@ Los ítemes a evaluar serán los siguientes (para un total de 30 puntos):
      - Ejecución.
 
 Importante a tener en cuenta que, si al seguir los pasos del instructivo (instalación, compilación y ejecución) no fue posible compilar o ejecutar el programa, entonces el ítem #2 se evaluará como no hecho, es decir, con puntaje de cero.
+
+<br />
+
+### Avance II
+
+Este segundo avance tendrá un valor de 10 %.
+
+Se tomará en cuenta lo entregado a más tardar el lunes 24 de noviembre a las 17:59:59.
+
+Los ítemes a evaluar serán los siguientes (para un total de 25 puntos):
+
+1. Componentes (_Classes_) **Caja**, **Mazo**, **Mano** y **Pozo** debidamente implementados según las estructuras de datos indicadas (10 puntos).
+
+2. Interfaz gráfica:
+
+   - La funcionalidad de "barajar", es decir, pasar **Cartas** de la **Caja** al **Mazo** aleatoriamente (5 puntos).
+   - La funcionalidad de mostrar las **Cartas** de la **Caja** y el **Mazo**, incluyendo sus características según la estructura de datos utilizada (5 puntos).
+
+3. Documentación en **Markdown** (5 puntos):
+   - Nombres y carnés de los integrantes.
+   - Editores/IDEs.
+   - Instructivo:
+     - Instalación.
+     - Compilación.
+     - Ejecución.
