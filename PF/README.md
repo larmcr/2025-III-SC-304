@@ -208,7 +208,7 @@ En el repositorio debe estar lo siguiente:
 
 Este proyecto final será evaluado por medio de tres fases (dos avances y la presentación), tal como se acordó en el primer día de clases.
 
-Conforme se vaya avanzando en el cuatrimetre, se irán agregando detalles de dichas evaluaciones en este documento.
+Conforme se vaya avanzando en el cuatrimestre, se irán agregando detalles de dichas evaluaciones en este documento.
 
 <br />
 
@@ -218,7 +218,7 @@ Este primer avance tendrá un valor de 15 %.
 
 Se tomará en cuenta lo subido al repositorio a más tardar el lunes 20 de octubre a las 17:59:59.
 
-Los ítemes a evaluar serán los siguientes (para un total de 30 puntos):
+Los ítems a evaluar serán los siguientes (para un total de 30 puntos):
 
 1. Clase **Carta** implementada (5 puntos).
 
@@ -246,7 +246,7 @@ Este segundo avance tendrá un valor de 10 %.
 
 Se tomará en cuenta lo entregado a más tardar el lunes 24 de noviembre a las 17:59:59.
 
-Los ítemes a evaluar serán los siguientes (para un total de 25 puntos):
+Los ítems a evaluar serán los siguientes (para un total de 25 puntos):
 
 1. Componentes (_Classes_) **Caja**, **Mazo**, **Mano** y **Pozo** debidamente implementados según las estructuras de datos indicadas (10 puntos).
 
