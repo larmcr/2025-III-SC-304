@@ -49,7 +49,7 @@ Al crearse la pila, esta contendrá cada uno de sus caracteres en el orden corre
 ['.', 't', 'x', 'e', 't', ' ', 'e', 'm', 'o', 's', '\n', 's', 'i', ' ', 's', 'i', 'h', 'T']
 ```
 
-Al vaciar dicha pila (en orden inverso a como se ingresaron los caracteres) y escrbir dicho texto generado a un archivo se salida, quedaría así su contenido:
+Al vaciar dicha pila (en orden inverso a como se ingresaron los caracteres) y escribir dicho texto generado a un archivo se salida, quedaría así su contenido:
 
 ```txt
 This is
@@ -64,7 +64,7 @@ La versión para desarrollar la práctica debe ser [**_Java SE 21 & JDK 21_**](h
 
 La pila puede ser propia, o bien, utilizar la proveída por **Java** ([_Stack_](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Stack.html)). En cualquier caso, se debe hacer uso de los métodos `push` y `pop` para el llenado y vaciado de la pila, respectivamente. Así mismo, el elemento que permitirá dicha pila (es decir, el tipo de dato de cada ítem) será de tipo [_Character_](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Character.html), por lo que se debe tomar en cuenta que no se podrán usar elementos de otro tipo (como _String_) en dicha pila.
 
-El archivo a leer se llamará `input.txt` y el archivo a escribir (el cual se debe crear en caso que no exista, o bien, sobreescribir en caso que sí exista) se llamará `output.txt`. Para poder leer y escribir archivos, se deben utilizar paquetes estándar de **Java**, tal como [`java.io`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/package-summary.html) o [`java.nio`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/package-summary.html).
+El archivo a leer se llamará `input.txt` y el archivo a escribir (el cual se debe crear en caso que no exista, o bien, sobrescribir en caso que sí exista) se llamará `output.txt`. Para poder leer y escribir archivos, se deben utilizar paquetes estándar de **Java**, tal como [`java.io`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/package-summary.html) o [`java.nio`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/package-summary.html).
 
 Así mismo, no es necesario verificar si el archivo a leer (`input.txt`) exista o contenga datos; es decir, siempre será proveído dicho archivo de forma correcta (nombre correcto y con contenido). Se incluirá a modo de ejemplo y como parte de este enunciado, un archivo de entrada (`input.txt`) con su correspondiente archivo de salida (`output.txt`).
 
@@ -92,7 +92,7 @@ Esta es una práctica individual, por lo que en su respectivo repositorio de **G
 
   - La respuesta a las siguientes preguntas:
 
-    - ¿Cree que exista otra forma de efectuar la inversión del contenido de un archivo sin necesitad de usar una pila? Si sí, indique cómo (sin necesidad de código).
+    - ¿Cree que exista otra forma de efectuar la inversión del contenido de un archivo sin necesidad de usar una pila? Si sí, indique cómo (sin necesidad de código).
 
     - ¿En qué ejemplo de la vida real (no informático) se puede ver reflejado el uso de una pila?
 

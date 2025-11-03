@@ -73,7 +73,7 @@ Esta es una práctica individual, por lo que en su respectivo repositorio de **G
 
     - Este puede ser el vínculo compartido de dicho(s) chatbot(s).
 
-  - La respuesta a la siguientes preguntas:
+  - La respuesta a las siguientes preguntas:
 
     - ¿Es posible implementar una solución equivalente pero de comportamiento iterativo?
 
