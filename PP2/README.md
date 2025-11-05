@@ -34,7 +34,7 @@ Familiarizarse con la estructura de pila (_Stack_) en el lenguaje de programaci�
 
 Se debe crear un programa llamado `Revert` que, al ejecutarse, lea un archivo de texto, invierta su contenido y escriba dicha versión invertida en otro archivo de texto.
 
-Para lograr lo anterior, se debe ingresar el contenido del archivo en una pila, caracter por caracter. Luego, se debe vaciar la pila (en el orden inverso en que se agregaron los caracteres, tal como debería funcionar esta estructura de datos), con el objetivo de crear el contenido del archivo de salida.
+Para lograr lo anterior, se debe ingresar el contenido del archivo en una pila, carácter por carácter. Luego, se debe vaciar la pila (en el orden inverso en que se agregaron los caracteres, tal como debería funcionar esta estructura de datos), con el objetivo de crear el contenido del archivo de salida.
 
 Por ejemplo, suponga que el archivo de entrada a leer contiene lo siguiente:
 
