@@ -1,4 +1,4 @@
-# Práctica Programada 3
+# Práctica Programada 4
 
 | Curso                   | Estructuras de Datos                    |
 | :---------------------- | :-------------------------------------- |
