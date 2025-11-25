@@ -45,7 +45,7 @@ El código fuente del programa consta de ocho archivos en el lenguaje **Java**:
 
 - `CustomQueue`: implementación de una cola por medio de una lista enlazada simple.
 
-- `CustomStackQueue`: implementación de una pila por medio de una lista enlazada simple.
+- `CustomStack`: implementación de una pila por medio de una lista enlazada simple.
 
 - `CustomTree`: implementación de un árbol binario de búsqueda.
 
@@ -53,7 +53,7 @@ El objetivo del programa es leer un archivo de texto (`input.txt`) que contiene 
 
 - `clean.txt`: este archivo es una versión "limpia" del archivo de entrada; es decir, se cambian todas las letras a minúsculas, se quitan las tildes de las vocales, se eliminan lo signos de puntuación y se acorta todo el contenido a una sola línea.
 
-- `map.txt`: este archivo mantiene un mapa (diccionario) de todas las palabras (incluso monosílabos y proposiciones) con los índices de sus ubicaciones en el archivo limpio.
+- `map.txt`: este archivo mantiene un mapa (diccionario) de todas las palabras (incluso monosílabos y preposiciones) con los índices de sus ubicaciones en el archivo limpio.
 
 - `tree.txt`: este archivo muestra la información del árbol que contiene los _Term Frequencies_ de las palabras.
 
