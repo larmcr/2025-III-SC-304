@@ -87,7 +87,7 @@ Así mismo, debe acatar lo siguiente:
 
 - No es permitido modificar las implementaciones de los _Nodes_ (`QueueNode`, `StackNode` y `TreeNode`), ni la clase que tiene el método `main` (el archivo `Main.java`).
 
-- No es tampoco permitido agregar, actualizar o eliminar ninguna clase, constructor o método adicional a lo que se indicará explícitamente. Lo único permitido adicionar es el _Package_ en caso que así lo amerite.
+- No es tampoco permitido agregar, actualizar o eliminar ninguna clase, atributo, constructor o método adicional a lo que se indicará explícitamente. Lo único permitido adicionar es el _Package_ en caso que así lo amerite.
 
 - Los métodos a modificar solo se podrán actualizar en su lógica, no en su tipo de acceso, valor de retorno, nombres o parámetros. En cada método a actualizar aparecerá como comentario la palabra "Actualizar" (`// Actualizar`) como guía de dónde debe agregar su código.
 
