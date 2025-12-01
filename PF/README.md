@@ -182,7 +182,7 @@ Finalmente, las cartas deben instanciarse una sola vez durante cada partida. Est
 
 ## Entregables
 
-Debido a que este proyecto se debe hacer según los grupos establecidos, el único entregable (<del>es decir, lo único que se debe subir al **Campus Virtual**</del>) es el vínculo (_link_) al repositorio en línea de [Git](https://git-scm.com) (como por ejemplo, a [GitHub](https://github.com) o [GitLab](https://about.gitlab.com)). <del>Este vínculo debe ser subido por <ins>solo uno de los miembros del grupo</ins></del>. Este repositorio puede ser privado, pero <ins>deberá ser público</ins> al momento de los avances, así como cuando les toque el turno de la exposición del proyecto en la semana correspondiente, para que el profesor pueda tener acceso al mismo.
+Debido a que este proyecto se debe hacer según los grupos establecidos, el único entregable será el vínculo (_link_) al repositorio en línea de [Git](https://git-scm.com) (como por ejemplo, a [GitHub](https://github.com) o [GitLab](https://about.gitlab.com)); o bien, un archivo **ZIP** con todo el código fuente y documentación en la sección indicada en el **Campus Virtual**. Este repositorio puede ser privado, pero <ins>deberá ser público</ins> al momento de los avances, así como cuando les toque el turno de la exposición del proyecto en la semana correspondiente, para que el profesor pueda tener acceso al mismo.
 
 En el repositorio debe estar lo siguiente:
 
@@ -270,7 +270,7 @@ Los ítems a evaluar serán los siguientes (para un total de 25 puntos):
 
 Esta presentación trendrá un valor de 25 %.
 
-Se tomará en cuenta lo entregado a más tardar el lunes 8 de diciembre a las 17:59:59.
+Se tomará en cuenta lo entregado a más tardar el lunes 8 de diciembre a las 17:59:59. Esto puede ser lo que esté en el _Branch_ `main` en el repositorio de **Git**, o bien, lo subido (un solo archivo **ZIP**) en el apartado del **Campus Virtual** de la semana 14.
 
 Los ítems a evaluar serán los siguientes (para un total de 25 puntos):
 
