@@ -19,6 +19,7 @@
 - [Evaluación](#evaluación)
   - [Avance I](#avance-i)
   - [Avance II](#avance-ii)
+  - [Presentación Final](#presentación-final)
 
 <br />
 
@@ -258,6 +259,30 @@ Los ítems a evaluar serán los siguientes (para un total de 25 puntos):
 3. Documentación en **Markdown** (5 puntos):
    - Nombres y carnés de los integrantes.
    - Editores/IDEs.
+   - Instructivo:
+     - Instalación.
+     - Compilación.
+     - Ejecución.
+
+<br />
+
+### Presentación Final
+
+Esta presentación trendrá un valor de 25 %.
+
+Se tomará en cuenta lo entregado a más tardar el lunes 8 de diciembre a las 17:59:59.
+
+Los ítems a evaluar serán los siguientes (para un total de 25 puntos):
+
+1. Funcionalidades (15 puntos).
+
+2. Evaluación técnica (5 puntos).
+
+3. Documentación en **Markdown** (5 puntos):
+   - Nombres y carnés de los integrantes.
+   - Usuarios y correos de **Git** de cada integrante.
+   - Editores/IDEs.
+   - Referencias.
    - Instructivo:
      - Instalación.
      - Compilación.
